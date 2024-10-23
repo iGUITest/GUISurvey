@@ -1,3 +1,7 @@
+# Vision-Based Mobile App GUI Testing: A Survey
+
+## Complete Paper List
+
 | Topic   |   No. | Title                                                                                                                      | Venue    |   Year | Source Code   | Basis             | Category                          |
 |:--------|------:|:---------------------------------------------------------------------------------------------------------------------------|:---------|-------:|:--------------|:------------------|:----------------------------------|
 | 1GEN    |     1 | Sketch-GUIded GUI Test Generation for Mobile Applications                                                                  | ASE      |   2017 | Black-box     | Image             | Model                             |
